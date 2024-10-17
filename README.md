@@ -6,5 +6,5 @@ This project is focused on analyzing customer churn using Python. It aims to ide
 ## Dataset
 The dataset contains information on customer demographics, services used, and churn status, with features such as `PhoneService`, `InternetService`, `TechSupport`, etc.
 
-The dataset used for this analysis can be found [here]([https://www.example.com/dataset-link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)).
+The dataset used for this analysis can be found [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
